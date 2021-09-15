@@ -1,0 +1,9 @@
+#landing{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../asset/images1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: transparent;
+}
